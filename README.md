@@ -15,4 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!--START_SECTION:waka-->
+
+```txt
+Markdown   35 hrs 24 mins  ██████████████████▒░░░░░░   73.02 %
+Java       7 hrs 8 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.72 %
+Python     3 hrs 51 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.95 %
+C          1 hr 8 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.36 %
+C++        23 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.81 %
+```
+
 <!--END_SECTION:waka-->
