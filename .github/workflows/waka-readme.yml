@@ -1,0 +1,15 @@
+name: Atualizar WakaTime no README
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 */2 * * *"  # Atualiza a cada 2 horas
+
+jobs:
+  update-readme:
+    name: Atualizar README com WakaTime
+    runs-on: ubuntu-latest
+    steps:
+      - uses: athul/waka-readme@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
