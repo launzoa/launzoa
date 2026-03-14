@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-518%20hrs%2013%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-512%20hrs%205%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -21,17 +21,17 @@ Here are some ideas to get you started:
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Markdown                 22 hrs 5 mins       ██████████████████████░░░   86.55 % 
-Python                   3 hrs 21 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.17 % 
+Markdown                 21 hrs 1 min        █████████████████████░░░░   82.19 % 
+Python                   4 hrs 29 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.54 % 
 Other                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
 CSV                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
 
 🔥 Editors: 
-Obsidian                 22 hrs 5 mins       ██████████████████████░░░   86.55 % 
-VS Code                  3 hrs 26 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.45 % 
+Obsidian                 21 hrs 1 min        █████████████████████░░░░   82.19 % 
+VS Code                  4 hrs 33 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.81 % 
 
 💻 Operating System: 
-Linux                    25 hrs 31 mins      █████████████████████████   100.00 % 
+Linux                    25 hrs 35 mins      █████████████████████████   100.00 % 
 ```
 
 
