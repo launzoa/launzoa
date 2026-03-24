@@ -21,19 +21,19 @@ Here are some ideas to get you started:
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Markdown                 11 hrs 48 mins      █████████████░░░░░░░░░░░░   51.11 % 
-C++                      5 hrs 47 mins       ██████░░░░░░░░░░░░░░░░░░░   25.03 % 
-Python                   4 hrs 39 mins       █████░░░░░░░░░░░░░░░░░░░░   20.13 % 
-CMake                    25 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.84 % 
-C                        22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.66 % 
+Markdown                 9 hrs 3 mins        █████████████░░░░░░░░░░░░   53.80 % 
+Python                   4 hrs 39 mins       ███████░░░░░░░░░░░░░░░░░░   27.65 % 
+C++                      2 hrs 47 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.57 % 
+C                        14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.41 % 
+CMake                    4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
 
 🔥 Editors: 
-Obsidian                 11 hrs 41 mins      █████████████░░░░░░░░░░░░   50.56 % 
-Neovim                   6 hrs 45 mins       ███████░░░░░░░░░░░░░░░░░░   29.25 % 
-VS Code                  4 hrs 39 mins       █████░░░░░░░░░░░░░░░░░░░░   20.19 % 
+Obsidian                 8 hrs 55 mins       █████████████░░░░░░░░░░░░   53.05 % 
+VS Code                  4 hrs 39 mins       ███████░░░░░░░░░░░░░░░░░░   27.73 % 
+Neovim                   3 hrs 14 mins       █████░░░░░░░░░░░░░░░░░░░░   19.23 % 
 
 💻 Operating System: 
-Linux                    23 hrs 6 mins       █████████████████████████   100.00 % 
+Linux                    16 hrs 49 mins      █████████████████████████   100.00 % 
 ```
 
 
