@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-641%20hrs%2027%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-647%20hrs%2013%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -21,19 +21,19 @@ Here are some ideas to get you started:
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Markdown                 10 hrs 59 mins      ████████████░░░░░░░░░░░░░   47.35 % 
-Python                   10 hrs 9 mins       ███████████░░░░░░░░░░░░░░   43.76 % 
-Julia                    2 hrs               ██░░░░░░░░░░░░░░░░░░░░░░░   08.63 % 
-CMake                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
-Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
+Markdown                 12 hrs 29 mins      ████████████░░░░░░░░░░░░░   48.49 % 
+Python                   10 hrs 25 mins      ██████████░░░░░░░░░░░░░░░   40.49 % 
+Julia                    2 hrs               ██░░░░░░░░░░░░░░░░░░░░░░░   07.78 % 
+C++                      42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.72 % 
+C                        3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
 
 🔥 Editors: 
-Neovim                   11 hrs 25 mins      ████████████░░░░░░░░░░░░░   49.24 % 
-Obsidian                 10 hrs 59 mins      ████████████░░░░░░░░░░░░░   47.35 % 
-VS Code                  47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.40 % 
+Obsidian                 12 hrs 29 mins      ████████████░░░░░░░░░░░░░   48.49 % 
+Neovim                   12 hrs 28 mins      ████████████░░░░░░░░░░░░░   48.44 % 
+VS Code                  47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.07 % 
 
 💻 Operating System: 
-Linux                    23 hrs 12 mins      █████████████████████████   100.00 % 
+Linux                    25 hrs 45 mins      █████████████████████████   100.00 % 
 ```
 
 
