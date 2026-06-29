@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-870%20hrs%2045%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-865%20hrs%2051%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -21,19 +21,19 @@ Here are some ideas to get you started:
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Java                     15 hrs 25 mins      ████████████░░░░░░░░░░░░░   46.72 % 
-Markdown                 14 hrs 33 mins      ███████████░░░░░░░░░░░░░░   44.08 % 
-XML                      1 hr 11 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.63 % 
-SQL                      54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.75 % 
-C++                      17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.88 % 
+Markdown                 17 hrs 17 mins      █████████████░░░░░░░░░░░░   51.42 % 
+Java                     13 hrs 25 mins      ██████████░░░░░░░░░░░░░░░   39.93 % 
+XML                      1 hr 4 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.19 % 
+SQL                      54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.70 % 
+C++                      17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.86 % 
 
 🔥 Editors: 
-Antigravity Desktop      11 hrs 21 mins      █████████░░░░░░░░░░░░░░░░   34.41 % 
-Obsidian                 10 hrs 55 mins      ████████░░░░░░░░░░░░░░░░░   33.10 % 
-Antigravity IDE          10 hrs 43 mins      ████████░░░░░░░░░░░░░░░░░   32.49 % 
+Obsidian                 13 hrs 55 mins      ██████████░░░░░░░░░░░░░░░   41.39 % 
+Antigravity Desktop      10 hrs 45 mins      ████████░░░░░░░░░░░░░░░░░   31.98 % 
+Antigravity IDE          8 hrs 57 mins       ███████░░░░░░░░░░░░░░░░░░   26.63 % 
 
 💻 Operating System: 
-Linux                    33 hrs 1 min        █████████████████████████   100.00 % 
+Linux                    33 hrs 37 mins      █████████████████████████   100.00 % 
 ```
 
 
