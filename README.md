@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-896%20hrs%2018%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-892%20hrs%2038%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -21,20 +21,20 @@ Here are some ideas to get you started:
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Markdown                 27 hrs 45 mins      ███████████████████████░░   90.37 % 
-PlantUML                 1 hr 40 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.48 % 
-Java                     29 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.58 % 
-Python                   15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.82 % 
-SQL                      14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.80 % 
+Markdown                 27 hrs 28 mins      ███████████████████████░░   90.33 % 
+PlantUML                 1 hr 40 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.53 % 
+Python                   53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.91 % 
+CSV                      12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
+JSON                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
 
 🔥 Editors: 
-Obsidian                 25 hrs 45 mins      █████████████████████░░░░   83.87 % 
-Antigravity Desktop      2 hrs 32 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.27 % 
-Antigravity IDE          2 hrs 20 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.61 % 
+Obsidian                 25 hrs 26 mins      █████████████████████░░░░   83.63 % 
+Antigravity IDE          2 hrs 46 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.10 % 
+Antigravity Desktop      2 hrs 7 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.00 % 
 Neovim                   4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
 
 💻 Operating System: 
-Linux                    30 hrs 43 mins      █████████████████████████   100.00 % 
+Linux                    30 hrs 25 mins      █████████████████████████   100.00 % 
 ```
 
 
