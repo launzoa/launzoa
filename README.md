@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-912%20hrs%2058%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-917%20hrs%208%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -21,20 +21,20 @@ Here are some ideas to get you started:
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Markdown                 24 hrs 49 mins      ██████████████████████░░░   86.71 % 
-Python                   1 hr 50 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.44 % 
-PlantUML                 1 hr 30 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.28 % 
-CSV                      12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.73 % 
-JSON                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
+Markdown                 24 hrs 33 mins      ██████████████████████░░░   89.22 % 
+Python                   1 hr 51 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.76 % 
+PlantUML                 44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.68 % 
+CSV                      12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.76 % 
+JSON                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
 
 🔥 Editors: 
-Obsidian                 23 hrs 20 mins      ████████████████████░░░░░   81.50 % 
-Antigravity IDE          3 hrs 33 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.42 % 
-Antigravity Desktop      1 hr 34 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.53 % 
-Neovim                   9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
+Obsidian                 24 hrs 2 mins       ██████████████████████░░░   87.32 % 
+Antigravity IDE          2 hrs 47 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.17 % 
+Antigravity Desktop      36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.23 % 
+Neovim                   4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
 
 💻 Operating System: 
-Linux                    28 hrs 38 mins      █████████████████████████   100.00 % 
+Linux                    27 hrs 31 mins      █████████████████████████   100.00 % 
 ```
 
 
