@@ -21,18 +21,18 @@ Here are some ideas to get you started:
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Markdown                 11 hrs 8 mins       █████████████████████░░░░   85.93 % 
-Other                    1 hr 3 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.19 % 
-PlantUML                 28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.63 % 
-YAML                     17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.25 % 
+Markdown                 7 hrs 28 mins       █████████████████████░░░░   83.37 % 
+Other                    43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.13 % 
+PlantUML                 28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.25 % 
+YAML                     17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.25 % 
 
 🔥 Editors: 
-Obsidian                 9 hrs 27 mins       ██████████████████░░░░░░░   73.00 % 
-Antigravity Desktop      2 hrs 13 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.14 % 
-Antigravity IDE          1 hr 16 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.86 % 
+Obsidian                 5 hrs 27 mins       ███████████████░░░░░░░░░░   60.92 % 
+Antigravity Desktop      2 hrs 13 mins       ██████░░░░░░░░░░░░░░░░░░░   24.78 % 
+Antigravity IDE          1 hr 16 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.30 % 
 
 💻 Operating System: 
-Linux                    12 hrs 57 mins      █████████████████████████   100.00 % 
+Linux                    8 hrs 57 mins       █████████████████████████   100.00 % 
 ```
 
 
