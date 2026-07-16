@@ -5,6 +5,11 @@ on:
     - cron: '0 0 * * *' # Executa todos os dias à meia-noite UTC
   workflow_dispatch:
 
+# Define permissões de escrita no repo e leitura de perfil)
+permissions:
+  contents: write
+  users: read
+
 jobs:
   update-readme:
     runs-on: ubuntu-latest
@@ -25,5 +30,3 @@ jobs:
           SHOW_SHORT_INFO: "false"
           SHOW_COMMIT: "false"
           SHOW_LANGUAGE_PER_REPO: "false"
-
-
