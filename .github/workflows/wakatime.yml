@@ -5,10 +5,6 @@ on:
     - cron: '0 0 * * *' # Executa todos os dias à meia-noite UTC
   workflow_dispatch:
 
-permissions:
-  contents: write
-  user: read
-
 jobs:
   update-readme:
     runs-on: ubuntu-latest
