@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-930%20hrs%2050%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-930%20hrs%2028%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -21,21 +21,21 @@ Here are some ideas to get you started:
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Markdown                 7 hrs 6 mins        █████████████████████░░░░   85.88 % 
-Other                    27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.57 % 
-YAML                     17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.52 % 
-Python                   16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.28 % 
-jsonc                    8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.75 % 
+Markdown                 6 hrs               ██████████████████████░░░   88.39 % 
+Other                    20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.98 % 
+Python                   16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.99 % 
+jsonc                    8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.12 % 
+YAML                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
 
 🔥 Editors: 
-Obsidian                 5 hrs 25 mins       ████████████████░░░░░░░░░   65.59 % 
-Antigravity Desktop      1 hr 37 mins        █████░░░░░░░░░░░░░░░░░░░░   19.58 % 
-Antigravity IDE          48 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.80 % 
-Zed                      19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.84 % 
-Terminal                 5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.18 % 
+Obsidian                 5 hrs 27 mins       ████████████████████░░░░░   80.22 % 
+Antigravity IDE          29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.25 % 
+Antigravity Desktop      26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.41 % 
+Zed                      19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.68 % 
+Terminal                 5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.44 % 
 
 💻 Operating System: 
-Linux                    8 hrs 16 mins       █████████████████████████   100.00 % 
+Linux                    6 hrs 48 mins       █████████████████████████   100.00 % 
 ```
 
 
