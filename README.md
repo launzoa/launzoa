@@ -23,33 +23,38 @@ Here are some ideas to get you started:
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Markdown                 11 hrs 41 mins      █████████████████████████   100.00 % 
+Markdown                 11 hrs 46 mins      █████████████████████████   99.77 % 
+JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
 
 🔥 Editors: 
-Obsidian                 11 hrs 41 mins      █████████████████████████   100.00 % 
+Obsidian                 10 hrs 9 mins       ██████████████████████░░░   86.01 % 
+Zed                      1 hr 23 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.84 % 
+Antigravity Desktop      15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.15 % 
 
 💻 Operating System: 
-Linux                    11 hrs 41 mins      █████████████████████████   100.00 % 
+Linux                    11 hrs 48 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 14 mins (2.01%)
+⏱ AI Coding Time: 16 mins (2.28%)
 
-✍️ 0 lines written by AI, 1,980 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 2,023 lines written by hand (0.0% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 1 AI Sessions, 22 AI Prompts
+🧠 1 AI Sessions, 3 AI Prompts
+
+Gemini                   8 lines             █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📝 Concise Prompter — average 48 characters per prompt
-🔁 Iterative Prompter — average 22 prompts per session
-🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
+📄 Detailed Prompter — average 1,261 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🔍 Hands-On Reviewer — 99.74% of changed lines were hand-edited
 ```
 
 
