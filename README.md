@@ -13,9 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-987%20hrs%2051%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-991%20hrs%2053%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-73%20hrs%2023%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-73%20hrs%2058%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -23,39 +23,39 @@ Here are some ideas to get you started:
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Markdown                 17 hrs 14 mins      █████████████████░░░░░░░░   69.81 % 
-Other                    4 hrs 21 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.61 % 
-Python                   3 hrs 6 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.57 % 
+Markdown                 22 hrs 11 mins      ██████████████████░░░░░░░   70.90 % 
+Other                    6 hrs               █████░░░░░░░░░░░░░░░░░░░░   19.17 % 
+Python                   3 hrs 6 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.92 % 
 
 🔥 Editors: 
-Obsidian                 23 hrs 50 mins      ████████████████████████░   96.49 % 
-Antigravity Desktop      51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.50 % 
+Obsidian                 29 hrs 53 mins      ████████████████████████░   95.50 % 
+Antigravity Desktop      1 hr 24 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.49 % 
 Zed                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 💻 Operating System: 
-Linux                    24 hrs 42 mins      █████████████████████████   100.00 % 
+Linux                    31 hrs 18 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 18 hrs 9 mins (73.51%)
+⏱ AI Coding Time: 23 hrs 36 mins (75.39%)
 
-✍️ 79 lines written by AI, 1,516 lines written by hand (4.95% AI-written)
+✍️ 79 lines written by AI, 1,817 lines written by hand (4.17% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 7 AI Sessions, 133 AI Prompts
+🧠 9 AI Sessions, 241 AI Prompts
 
 Antigravity-Desktop      90 lines            █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 4.95% of written lines came from AI
-📝 Concise Prompter — average 377 characters per prompt
-🔁 Iterative Prompter — average 19 prompts per session
-🔍 Hands-On Reviewer — 97.05% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 4.17% of written lines came from AI
+📝 Concise Prompter — average 334 characters per prompt
+🔁 Iterative Prompter — average 27 prompts per session
+🔍 Hands-On Reviewer — 97.34% of changed lines were hand-edited
 ```
 
 
