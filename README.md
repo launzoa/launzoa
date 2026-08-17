@@ -23,22 +23,22 @@ Here are some ideas to get you started:
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Markdown                 24 hrs              ██████████████████░░░░░░░   73.37 % 
-Other                    5 hrs 20 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.33 % 
-Python                   3 hrs 22 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.30 % 
+Markdown                 23 hrs 35 mins      ███████████████████░░░░░░   76.92 % 
+Other                    5 hrs 17 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.26 % 
+Python                   1 hr 47 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.82 % 
 
 🔥 Editors: 
-Obsidian                 30 hrs 19 mins      ███████████████████████░░   92.67 % 
-Antigravity Desktop      2 hrs 23 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.33 % 
+Obsidian                 28 hrs 16 mins      ███████████████████████░░   92.18 % 
+Antigravity Desktop      2 hrs 23 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.82 % 
 
 💻 Operating System: 
-Linux                    32 hrs 43 mins      █████████████████████████   100.00 % 
+Linux                    30 hrs 40 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 22 hrs 27 mins (68.66%)
+⏱ AI Coding Time: 20 hrs 25 mins (66.57%)
 
 ✍️ 247 lines written by AI, 1,836 lines written by hand (11.86% AI-written)
 
@@ -46,13 +46,13 @@ Linux                    32 hrs 43 mins      ███████████�
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 12 AI Sessions, 325 AI Prompts
+🧠 11 AI Sessions, 298 AI Prompts
 
 Antigravity-Desktop      378 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 11.86% of written lines came from AI
-📝 Concise Prompter — average 436 characters per prompt
+📝 Concise Prompter — average 417 characters per prompt
 🔁 Iterative Prompter — average 27 prompts per session
 🔍 Hands-On Reviewer — 90.09% of changed lines were hand-edited
 ```
