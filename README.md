@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C020%20hrs%2030%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C021%20hrs%2012%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-87%20hrs%202%20mins-blue?style=flat)
 
@@ -23,26 +23,26 @@ Here are some ideas to get you started:
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Markdown                 13 hrs 16 mins      █████████████████████░░░░   84.89 % 
-C++                      2 hrs 2 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.02 % 
-Julia                    13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.44 % 
-shell script             4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 % 
-Java                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
+Markdown                 13 hrs 16 mins      ████████████████████░░░░░   79.08 % 
+C++                      3 hrs 11 mins       █████░░░░░░░░░░░░░░░░░░░░   18.97 % 
+Julia                    13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.34 % 
+shell script             4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
+Java                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
 
 🔥 Editors: 
-Obsidian                 13 hrs 16 mins      █████████████████████░░░░   84.89 % 
-Zed                      2 hrs 21 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.11 % 
+Obsidian                 13 hrs 16 mins      ████████████████████░░░░░   79.08 % 
+Zed                      3 hrs 30 mins       █████░░░░░░░░░░░░░░░░░░░░   20.92 % 
 
 💻 Operating System: 
-Linux                    15 hrs 38 mins      █████████████████████████   100.00 % 
+Linux                    16 hrs 47 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 6 mins (0.68%)
+⏱ AI Coding Time: 6 mins (0.63%)
 
-✍️ 0 lines written by AI, 1,658 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 1,715 lines written by hand (0.0% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
