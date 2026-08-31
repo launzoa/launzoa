@@ -23,29 +23,29 @@ Here are some ideas to get you started:
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-C++                      4 hrs 25 mins       █████████░░░░░░░░░░░░░░░░   37.40 % 
-Python                   3 hrs 47 mins       ████████░░░░░░░░░░░░░░░░░   32.06 % 
-Markdown                 3 hrs 20 mins       ███████░░░░░░░░░░░░░░░░░░   28.26 % 
-shell script             15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.24 % 
+Python                   3 hrs 47 mins       █████████░░░░░░░░░░░░░░░░   35.52 % 
+Markdown                 3 hrs 20 mins       ████████░░░░░░░░░░░░░░░░░   31.31 % 
+C++                      3 hrs 16 mins       ████████░░░░░░░░░░░░░░░░░   30.66 % 
+shell script             15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.48 % 
 C                        0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 🔥 Editors: 
-Zed                      8 hrs 35 mins       ██████████████████░░░░░░░   72.69 % 
-Obsidian                 2 hrs 11 mins       █████░░░░░░░░░░░░░░░░░░░░   18.52 % 
-Antigravity Desktop      38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.46 % 
-Neovim                   20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.89 % 
-VS Code                  3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
+Zed                      7 hrs 26 mins       █████████████████░░░░░░░░   69.74 % 
+Obsidian                 2 hrs 11 mins       █████░░░░░░░░░░░░░░░░░░░░   20.51 % 
+Antigravity Desktop      38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.05 % 
+Neovim                   20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.21 % 
+VS Code                  3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 % 
 
 💻 Operating System: 
-Linux                    11 hrs 48 mins      █████████████████████████   100.00 % 
+Linux                    10 hrs 40 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 13 mins (35.71%)
+⏱ AI Coding Time: 4 hrs 13 mins (39.56%)
 
-✍️ 0 lines written by AI, 591 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 534 lines written by hand (0.0% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
@@ -60,7 +60,7 @@ Antigravity-Desktop      1 lines             ███████████�
 🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
 📄 Detailed Prompter — average 575 characters per prompt
 🔁 Iterative Prompter — average 32 prompts per session
-🔍 Hands-On Reviewer — 99.77% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 99.74% of changed lines were hand-edited
 ```
 
 
