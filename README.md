@@ -23,43 +23,40 @@ Here are some ideas to get you started:
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Markdown                 11 hrs 12 mins      █████████████░░░░░░░░░░░░   53.82 % 
-Python                   4 hrs 40 mins       ██████░░░░░░░░░░░░░░░░░░░   22.47 % 
-C++                      4 hrs 13 mins       █████░░░░░░░░░░░░░░░░░░░░   20.32 % 
-Text                     20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.64 % 
-shell script             15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.27 % 
+Markdown                 16 hrs 9 mins       ██████████████████░░░░░░░   70.89 % 
+C++                      4 hrs 52 mins       █████░░░░░░░░░░░░░░░░░░░░   21.39 % 
+Python                   1 hr 14 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.48 % 
+Text                     23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.70 % 
+CSV                      3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
 
 🔥 Editors: 
-Obsidian                 9 hrs 40 mins       ████████████░░░░░░░░░░░░░   46.46 % 
-VS Code                  5 hrs 19 mins       ██████░░░░░░░░░░░░░░░░░░░   25.56 % 
-Zed                      4 hrs 33 mins       █████░░░░░░░░░░░░░░░░░░░░   21.89 % 
-Antigravity Desktop      55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.44 % 
-Neovim                   20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.64 % 
+Obsidian                 15 hrs 40 mins      █████████████████░░░░░░░░   68.77 % 
+VS Code                  6 hrs 3 mins        ███████░░░░░░░░░░░░░░░░░░   26.56 % 
+Zed                      25 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.88 % 
+Neovim                   20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.50 % 
+Antigravity Desktop      17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.29 % 
 
 💻 Operating System: 
-Linux                    20 hrs 49 mins      █████████████████████████   100.00 % 
+Linux                    22 hrs 47 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 8 hrs 55 mins (42.85%)
+⏱ AI Coding Time: 5 hrs 35 mins (24.5%)
 
-✍️ 0 lines written by AI, 150,038 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 150,551 lines written by hand (0.0% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 7 AI Sessions, 77 AI Prompts
-
-Gemini                   1 lines             ████████████░░░░░░░░░░░░░   50.00 % 
-Antigravity-Desktop      1 lines             ████████████░░░░░░░░░░░░░   50.00 % 
+🧠 7 AI Sessions, 20 AI Prompts
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📝 Concise Prompter — average 489 characters per prompt
-🔁 Iterative Prompter — average 11 prompts per session
+📝 Concise Prompter — average 178 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
 🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
