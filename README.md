@@ -23,28 +23,27 @@ Here are some ideas to get you started:
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Markdown                 18 hrs 54 mins      ██████████████████░░░░░░░   72.16 % 
-C++                      5 hrs 51 mins       ██████░░░░░░░░░░░░░░░░░░░   22.34 % 
-Python                   53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.41 % 
-Text                     25 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.63 % 
-CSV                      3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
+Markdown                 21 hrs 24 mins      ██████████████████░░░░░░░   73.17 % 
+C++                      6 hrs 12 mins       █████░░░░░░░░░░░░░░░░░░░░   21.20 % 
+Python                   53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.05 % 
+Text                     38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.17 % 
+CSV                      3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
 
 🔥 Editors: 
-Obsidian                 18 hrs 29 mins      ██████████████████░░░░░░░   70.58 % 
-VS Code                  7 hrs 4 mins        ███████░░░░░░░░░░░░░░░░░░   26.99 % 
-Neovim                   20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.31 % 
-Antigravity Desktop      17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.13 % 
+Obsidian                 20 hrs 59 mins      ██████████████████░░░░░░░   71.76 % 
+VS Code                  7 hrs 58 mins       ███████░░░░░░░░░░░░░░░░░░   27.23 % 
+Antigravity Desktop      17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.01 % 
 
 💻 Operating System: 
-Linux                    26 hrs 11 mins      █████████████████████████   100.00 % 
+Linux                    29 hrs 15 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 hrs 14 mins (20.0%)
+⏱ AI Coding Time: 5 hrs 14 mins (17.9%)
 
-✍️ 0 lines written by AI, 150,916 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 151,560 lines written by hand (0.0% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
