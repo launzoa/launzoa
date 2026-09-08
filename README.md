@@ -23,38 +23,38 @@ Here are some ideas to get you started:
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Markdown                 21 hrs 24 mins      ██████████████████░░░░░░░   73.17 % 
-C++                      6 hrs 12 mins       █████░░░░░░░░░░░░░░░░░░░░   21.20 % 
-Python                   53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.05 % 
-Text                     38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.17 % 
-CSV                      3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
+Markdown                 18 hrs 32 mins      ██████████████████░░░░░░░   71.18 % 
+C++                      6 hrs 46 mins       ██████░░░░░░░░░░░░░░░░░░░   25.99 % 
+Text                     43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.78 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+C                        0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 Editors: 
-Obsidian                 20 hrs 59 mins      ██████████████████░░░░░░░   71.76 % 
-VS Code                  7 hrs 58 mins       ███████░░░░░░░░░░░░░░░░░░   27.23 % 
-Antigravity Desktop      17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.01 % 
+Obsidian                 18 hrs 23 mins      ██████████████████░░░░░░░   70.65 % 
+VS Code                  7 hrs 29 mins       ███████░░░░░░░░░░░░░░░░░░   28.79 % 
+Antigravity Desktop      8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 % 
 
 💻 Operating System: 
-Linux                    29 hrs 15 mins      █████████████████████████   100.00 % 
+Linux                    26 hrs 2 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 hrs 14 mins (17.9%)
+⏱ AI Coding Time: 3 hrs 42 mins (14.27%)
 
-✍️ 0 lines written by AI, 151,560 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 151,383 lines written by hand (0.0% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 6 AI Sessions, 15 AI Prompts
+🧠 4 AI Sessions, 11 AI Prompts
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📝 Concise Prompter — average 102 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
+📝 Concise Prompter — average 110 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
 🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
