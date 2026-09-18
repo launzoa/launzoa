@@ -13,9 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C088%20hrs%2039%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C093%20hrs%2037%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-102%20hrs%2042%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-104%20hrs%2013%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -23,38 +23,38 @@ Here are some ideas to get you started:
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Markdown                 18 hrs 13 mins      ████████████████████░░░░░   79.82 % 
-Python                   3 hrs 2 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.33 % 
-C++                      54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.99 % 
-Other                    18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.38 % 
-JavaScript               15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.11 % 
+Markdown                 17 hrs 32 mins      ██████████████████░░░░░░░   73.70 % 
+Python                   5 hrs               █████░░░░░░░░░░░░░░░░░░░░   21.03 % 
+C++                      54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.84 % 
+CSV                      10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.72 % 
+Other                    5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
 
 🔥 Editors: 
-Obsidian                 18 hrs 9 mins       ████████████████████░░░░░   79.54 % 
-VS Code                  3 hrs 28 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.21 % 
-Antigravity Desktop      1 hr 11 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.24 % 
+Obsidian                 17 hrs 29 mins      ██████████████████░░░░░░░   73.45 % 
+VS Code                  5 hrs 17 mins       ██████░░░░░░░░░░░░░░░░░░░   22.20 % 
+Antigravity Desktop      1 hr 2 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
 
 💻 Operating System: 
-Linux                    22 hrs 49 mins      █████████████████████████   100.00 % 
+Linux                    23 hrs 48 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 6 hrs 7 mins (26.8%)
+⏱ AI Coding Time: 6 hrs 10 mins (25.92%)
 
-✍️ 0 lines written by AI, 1,051 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 2,503 lines written by hand (0.0% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 10 AI Sessions, 76 AI Prompts
+🧠 7 AI Sessions, 111 AI Prompts
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📄 Detailed Prompter — average 625 characters per prompt
-🔁 Iterative Prompter — average 8 prompts per session
+📄 Detailed Prompter — average 585 characters per prompt
+🔁 Iterative Prompter — average 16 prompts per session
 🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
