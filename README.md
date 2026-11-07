@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C298%20hrs%2056%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C303%20hrs%2038%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-126%20hrs%2023%20mins-blue?style=flat)
 
@@ -23,17 +23,15 @@ Here are some ideas to get you started:
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Markdown                 10 hrs 54 mins      ███████████████░░░░░░░░░░   58.78 % 
-Python                   7 hrs 15 mins       ██████████░░░░░░░░░░░░░░░   39.12 % 
-TeX                      23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.10 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+Markdown                 10 hrs              ██████████████░░░░░░░░░░░   56.95 % 
+Python                   7 hrs 33 mins       ███████████░░░░░░░░░░░░░░   43.05 % 
 
 🔥 Editors: 
-Obsidian                 10 hrs 53 mins      ███████████████░░░░░░░░░░   58.65 % 
-VS Code                  7 hrs 40 mins       ██████████░░░░░░░░░░░░░░░   41.35 % 
+Obsidian                 9 hrs 59 mins       ██████████████░░░░░░░░░░░   56.81 % 
+VS Code                  7 hrs 35 mins       ███████████░░░░░░░░░░░░░░   43.19 % 
 
 💻 Operating System: 
-Linux                    18 hrs 33 mins      █████████████████████████   100.00 % 
+Linux                    17 hrs 34 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
