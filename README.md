@@ -23,18 +23,18 @@ Here are some ideas to get you started:
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Markdown                 5 hrs 22 mins       ██████████████░░░░░░░░░░░   56.95 % 
-Python                   4 hrs               ███████████░░░░░░░░░░░░░░   42.56 % 
-INI                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+Markdown                 5 hrs 10 mins       ████████████████████░░░░░   79.24 % 
+Python                   1 hr 18 mins        █████░░░░░░░░░░░░░░░░░░░░   20.05 % 
+INI                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
 
 🔥 Editors: 
-Obsidian                 5 hrs 22 mins       ██████████████░░░░░░░░░░░   56.95 % 
-VS Code                  4 hrs 3 mins        ███████████░░░░░░░░░░░░░░   43.05 % 
+Obsidian                 5 hrs 10 mins       ████████████████████░░░░░   79.23 % 
+VS Code                  1 hr 21 mins        █████░░░░░░░░░░░░░░░░░░░░   20.77 % 
 
 💻 Operating System: 
-Linux                    9 hrs 25 mins       █████████████████████████   100.00 % 
+Linux                    6 hrs 32 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
